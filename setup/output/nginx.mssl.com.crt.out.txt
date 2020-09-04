@@ -1,0 +1,4 @@
+Signature ok
+subject=C = AU, ST = Some-State, O = Server, CN = nginx.mssl.com
+Getting CA Private Key
+Enter pass phrase for ca.key:ubuntu
