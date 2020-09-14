@@ -53,6 +53,10 @@ systemctl restart nginx</p>
 systemctl status nginx</p>
 
 ### Get request to the domain endpoint by terminal</p>
+cd /certs
+curl --cert user.crt --key user.key --cacert ca.crt https://nginx.mssl.com:443
+
+
 
 
 
